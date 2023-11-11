@@ -1,0 +1,65 @@
+.bloque-1{
+    background-color: #f4ede4;
+    line-height: 100px;
+}
+.titulo{
+    color: #1D1D49;
+}
+.subTitulo{
+    color: #1D1D49;
+}
+
+.botones-paginas {
+    color: white;
+    text-align: right;
+}
+
+.main {
+    text-align: center;
+  }
+  
+  .texto {
+    font-size: 24px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .autor {
+    font-size: 18px;
+  }
+
+.footer {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .footer-link {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    font-size: 16px;
+    text-decoration: none;
+    color: #ffffff;
+  }
+  
+  .icon-instagram:before {
+    content: "\f16d";
+    font-family: "Google Fonts Icons";
+    margin-right: 10px;
+  }
+  
+  .icon-phone:before {
+    content: "\f095";
+    font-family: "Google Fonts Icons";
+    margin-right: 10px;
+  }
+  
+  .icon-email:before {
+    content: "\f0e0";
+    font-family: "Google Fonts Icons";
+    margin-right: 10px;
+  }
