@@ -1,12 +1,17 @@
-.contenedor {
+body{
+    background: #F4EDE4;
+    
+}
+.header{
+    background: #1D1D49;
+    color: #F4EDE4;
+
+}
+.contenedor-mitad {
     display: flex;
-
+    background: #E2D6C0;
 }
 
-.mitad-1{
-    padding: 2%;
-}
-
-.mitad-2{
+.texto-mitad{
     padding: 2%;
 }
