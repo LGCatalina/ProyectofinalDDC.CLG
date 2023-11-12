@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+  }
+.header {
+    color: #F4EDE4;
+
+    font-feature-settings: 'cpsp' on;
+    font-family: Playfair Display;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-variant: small-caps;
+  }
