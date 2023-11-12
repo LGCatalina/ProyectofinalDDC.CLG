@@ -2,24 +2,21 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  color: #fff;
 }
 .header {
   text-align: center;
   padding: 20px;
-  color: #3C3C3B;
   font-size: 20px;
   background-color: #f4ede4;
   line-height: 100px;
 }
 
 .title{
-    color: #1D1D49;
+  color: #1D1D49;
     width: 509px;
     height: 115px;
     top: 70px;
     left: 65px;
-
     font-family: Playfair Display;
     font-size: 40px;
     font-weight: 600;
