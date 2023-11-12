@@ -1,0 +1,21 @@
+.block{
+    display: flex;
+    flex-direction: row;
+}
+
+.image{
+    width: 504px;
+    height: 439px; 
+}
+
+.subBlock{
+    display: flex;
+    flex-direction: row;
+    display: inline-block;
+  }
+
+.subImage{
+    width: 250px;
+    height: 300px;
+    
+}
